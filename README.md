@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-```yaml
-- Working on Learning Google Cyber Security on coursera!
-- Contributing on [Kaggle](https://www.kaggle.com/michwaro)
-- Developing CharaChorder Zero, free cross-platform software-based CharaChorder experience.
-```
+
+	- Working on Learning Google Cyber Security on coursera!
+	- Contributing on [Kaggle](https://www.kaggle.com/michwaro)
+	- Developing CharaChorder Zero, free cross-platform software-based CharaChorder experience.
+
 <!-- - Developing Nexus, the cross-platform, all-in-one, CharaChorder desktop app! -->
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘... -->
