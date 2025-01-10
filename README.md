@@ -1,11 +1,6 @@
-[[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (michwaro(kevin|Nyamongo)|https://michwaro.com)" title="👋 Hi there! I'm (michwaro(kevin|Nyamongo)|https://michwaro.com)"/>](https://michwaro.com/)](https://codesandbox.io/p/sandbox/readme-intro-gif-myhrzq)
+[[<img src="https://github.com/user-attachments/assets/e6942bd1-8b46-48bb-8813-822f01f52bb7)" alt="👋 Hi there! I'm (michwaro(kevin|Nyamongo)|https://michwaro.com)" title="👋 Hi there! I'm (michwaro(kevin|Nyamongo)|https://michwaro.com)"/>](https://michwaro.com/)](https://codesandbox.io/p/sandbox/readme-intro-gif-myhrzq)
+![download](https://github.com/user-attachments/assets/e6942bd1-8b46-48bb-8813-822f01f52bb7)
 
-<iframe src="https://codesandbox.io/p/devbox/fl4fkk?migrateFrom=myhrzq&embed=1&file=%2Fsrc%2FApp.vue&showConsole=true"
-     style="width:100%; height: 500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="README intro.gif"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
