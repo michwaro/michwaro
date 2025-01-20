@@ -1,6 +1,3 @@
-[[<img src="https://github.com/user-attachments/assets/e6942bd1-8b46-48bb-8813-822f01f52bb7)" alt="👋 Hi there! I'm (michwaro(kevin|Nyamongo)|https://michwaro.com)" title="👋 Hi there! I'm (michwaro(kevin|Nyamongo)|https://michwaro.com)"/>](https://michwaro.com/)](https://codesandbox.io/p/sandbox/readme-intro-gif-myhrzq)
-![download](https://github.com/user-attachments/assets/e6942bd1-8b46-48bb-8813-822f01f52bb7)
-
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
