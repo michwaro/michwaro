@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 
 	- Working on Learning Google Cyber Security on coursera!
+ 	- Learning [Data Engineering](https://github.com/michwaro/KevinZoomcamp2025)!
 	- Contributing on [Kaggle](https://www.kaggle.com/michwaro)
 	- Developing CharaChorder Zero, free cross-platform software-based CharaChorder experience.
 
