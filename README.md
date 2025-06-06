@@ -1,7 +1,7 @@
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍: *`2025-01-28` <!-- TODO: automate this -->
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍: *`2025-06-06` <!-- TODO: automate this -->
 <!--
 **Michwaro/michwaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
