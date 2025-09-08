@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Systems Security Engineer 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-<!-- 💼 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙰𝙸 𝙿𝙴 𝙿𝚢𝚃𝚘𝚛𝚌𝚑 𝚊𝚝 [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook) -->
+- 💼 𝙿𝚛𝚘𝚍𝚞𝚌𝚝 Manager, [Project Engineering](https://github.com/michwaro/Product-Management)!
 -  💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [KCAA <img src="(https://www.kcaa.or.ke/sites/default/files/logo.png)" height="30em" align="center" alt="CharaChorder Logo" title="KCAA Logo"/>](https://kcaa.or.ke)
 - 💼 [Systems Security Engineer](https://github.com/michwaro) 𝚊𝚝 [KCAA](https://kcaa.or.ke)
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Electrical and Electronics Engineering 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 Jomo Kenyatta University of Agriculture and Technology, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸017
