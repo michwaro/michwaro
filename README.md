@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </table>
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Systems Security Engineer 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
+- 🖥 Data Engineer 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
 - 💼 𝙿𝚛𝚘𝚍𝚞𝚌𝚝 Manager, [Project Engineering](https://github.com/michwaro/Product-Management)!
 -  💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [KCAA <img src="(https://www.kcaa.or.ke/sites/default/files/logo.png)" height="30em" align="center" alt="CharaChorder Logo" title="KCAA Logo"/>](https://kcaa.or.ke)
 - 💼 [Systems Security Engineer](https://github.com/michwaro) 𝚊𝚝 [KCAA](https://kcaa.or.ke)
